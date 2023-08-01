@@ -1,0 +1,391 @@
+{
+   "areas": [
+      
+      {
+        "id": 1,
+        "name": "Amboseli National Park",
+        "image": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcSPZJ-rEenDmuiEIikd2ezvg93JFcbGd4BqP3RKPvy6MoLNtoehMSSPDj8OGV5RZoNX",
+        "Description": "Amboseli National Park is in southern Kenya. It’s known for its large elephant herds and views of immense Mount Kilimanjaro. ",
+        "Category": "parks",
+        "Location": "Kajiado"
+
+        
+      },
+     
+      {
+        "id": 2,
+        "name": "DIANI SEA RESORT",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/56/73/ed/diani-sea-resort.jpg?w=700&h=-1&s=1",
+        "Description": "Diani Beach is a major beach on the Indian Ocean coast of Kenya (in eastern Africa). It is located 30 kilometres (19 mi) south of Mombasa, in Kwale County.",
+        "Category": "Beach",
+        "Location": "Kwale"
+        
+        
+      },
+      {
+        "id": 3,
+        "name": "Aberdare National Park",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Aberdare_Park_entrance.jpg",
+        "Description": "The Aberdare National Park is a protected area in the Aberdare Mountain Range in central Kenya located east of the East African Rift Valley. ",
+        "Category":"parks",
+        "Location": " Nyeri"
+             
+      },
+      {
+        "id": 4,
+        "name": "Nairobi National Park",
+        "image": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQ_JZXEgVGVMqFO1-zjjQIlenDphTpISfb3j1Y7hM1kS3F0t0GnsE8fsqjsp_DWCya0",
+        "Description": "Nairobi National Park is a national park in Kenya that was established in 1946 about 7 km south of Nairobi.",
+        "Category":"parks",
+        "Location": "Nairobi"
+    
+        
+      },
+      {
+        "id": 5,
+        "name": "Garden City Mall",
+        "image": "https://i.pinimg.com/originals/ce/80/ab/ce80ab44736d57654e7af58f1b35ee25.jpg",
+        "Description": "It is the first of its kind in the country to incorporate shopping, residential and office space into one joint development ingeniously blending work, home and leisure activities.",
+        "Category": "mall",
+        "Location":"Thika"
+        
+        
+      },
+      {
+        "id": 6,
+        "name": "Saiwa Swamp National park",
+        "image": "https://www.maasaimarakenyapark.com/wp-content/uploads/2019/09/Saiwa-Swamp-National-Park-750x450.jpg",
+        "Description": "Saiwa Swamp National Park is located near Kitale, in Trans-Nzoia County, Rift Valley Province, Kenya. It is the smallest national park in Kenya. ",
+        "Category":"parks",
+        "Location": "Naivasha"
+ 
+        
+      },
+      {
+        "id": 7,
+        "name": "Meru National Park",
+        "image": "https://www.kws.go.ke/sites/default/files/Grevy%20Zebra%202.jpg",
+        "Description": "Meru National Park is a Kenyan national park located east of Meru, 350 km from Nairobi.",
+        "Category":"parks",
+        "Location": "Meru"
+       
+      },
+      {
+        "id": 8,
+        "name": "Watamu",
+        "image": "https://theholidaydealers.com/wp-content/uploads/2022/06/Hemingways-Watamu-Kenya-6.jpg",
+        "Description": "The coastal village of Watamu is known for its wonderful white sand beach. The region is protected as part of the Watamu National Marine Park.",
+        "Category": "Beach",
+        "Location": "Kilifi"
+        
+        
+      },
+      {
+        "id": 9,
+        "name": "Mount Kenya National Park",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/MtKenyaMackinder.jpg/1200px-MtKenyaMackinder.jpg",
+        "Description": "Mount Kenya National Park was established in 1949 to protect Mount Kenya, the wildlife, and the surrounding environment.",
+        "Category":"parks",
+        "Location": " Nyeri"
+     
+      },
+      {
+        "id": 10,
+        "name": "Lake Nakuru",
+        "image": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRNNVTGJqSzk-758PcIGBGaG9A46dQv5FW7pA8k1zbca3SArp8TIBp7DYt_4OpIOY57",
+        "Description": "Lake Nakuru is one of the Rift Valley lakes, located at an elevation of 1,754 m above sea level. It lies to the south of Nakuru, ",
+        "Category": "parks",
+        "Location": "Nakuru"
+    
+        
+      },
+      {
+        "id": 11,
+        "name": "Samburu National Reserve",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Samburu_National_Reserve%2C_Kenya-26December2012.jpg/800px-Samburu_National_Reserve%2C_Kenya-26December2012.jpg",
+        "Description": "The Samburu National Reserve is a game reserve on the banks of the Ewaso Ng'iro river in Kenya. On the other side of the river is the Buffalo Springs National Reserve.  ",
+        "Category": "parks",
+        "Location": "Samburu"
+        
+        
+      },
+      {
+        "id": 12,
+        "name": "Mombasa Marine National Park and Reserve",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGYZiLZfkZbwQ7QGISiwQBQ9ImP11kLVIlWZgEbwn8j2JjoRQv",
+        "Description": "It is located on the coast near tourist areas and is a popular beach because of the snorkeling and diving; other activities include taking a boat ride.",
+        "Category": "parks",
+        "Location": "Mombasa"
+       
+        
+      },
+      {
+        "id": 13,
+        "name": "Kenya Lake System ",
+        "image": "https://whc.unesco.org/uploads/thumbs/site_1060_0002-1200-630-20110706110725.jpg",
+        "Description": "Located in the Great Rift Valley, Kenya, the site features three lakes: Lake Bogoria, Lake Nakuru and Lake Elementaita. A highly diverse population of birds.",
+        "Category": "historic site",
+        "Location": "Great Rift Valley"
+        
+        
+      },
+      {
+        "id": 14,
+        "name": "Fort Jesus",
+        "image": "https://e8s3v3w7.rocketcdn.me/wp-content/uploads/2017/11/kenia-mombasa-das-fort-jesus-im-kenianischen-mombasa-an-der-kucc88ste-des-indischen-ozeans-bewachte-im-16-jahrhundert-die-zufahrt-zu-kenias-grocc88sster-und-wichtigster-hafenstadt-wiw-fot.jpg",
+        "Description": "Fort Jesus is a Portuguese fort built from 1593 to 1596 on Mombasa Island to guard the old port of Mombasa, Kenya. ",
+        "Category":"historic site",
+        "Location": "Mombasa"
+        
+        
+      },
+      {
+        "id": 15,
+        "name": "Sarova Hotel",
+        "image": "https://www.kayak.com/rimg/himg/a9/0f/b2/expediav2-67349-c13dae-274967.jpg?width=1366&height=768&crop=true",
+        "Description": "Mombasa Beach Hotel is under the flagship of Kenya Safari Lodges & Hotels is located in the Kenya's North Coast.  ",
+        "Category": "Hotel",
+        "Location": "Nairobi"
+        
+        
+      },
+      {
+        "id": 16,
+        "name": "Lamu Old Town",
+        "image": "https://whc.unesco.org/uploads/thumbs/site_1055_0003-1000-664-20230120114844.jpg",
+        "Description": "The town is the oldest Swahili settlement, and is built in coral stone and mangrove timber. ",
+        "Category":"historic site",
+        "Location": "Lamu"
+         
+      },
+      {
+        "id": 17,
+        "name": "Sacred Mijikenda Kaya Forests",
+        "image": "https://whc.unesco.org/uploads/thumbs/site_1231_0004-750-750-20151105114101.jpg",
+        "Description": "The site comprises eleven forests spread 200 km (120 mi) along the coast of Kenya. ",
+        "Category": "historic site",
+        "Location": "Coast Province"
+        
+        
+      },
+      {
+        "id": 18,
+        "name": "Thimlich Ohinga",
+        "image": "https://www.kenyageographic.com/wp-content/uploads/2020/11/thimlich-ohinga-prehistoric-site.jpg",
+        "Description": "Thimlich Ohinga Archaeological Site · Entrance at Kochieng enclosure and buttresses at either side for stability ·  ",
+        "Category":"historic site",
+        "Location": "Migori"
+      
+        
+      },
+      {
+        "id": 19,
+        "name": "Koobi Fora",
+        "image": "https://lh6.googleusercontent.com/PJeLv3gdw3X8jTloZqJuNAyX5DCznh7lnbkU2qlcvJFEp-xMU9tzzBrUv7TmJGeoWUbgxgq0psFV7dJ1P1LxAwoSrbZDDWcMeKrHW7ybv72c76--7kNWlSteHWGl3MMzNHhV8uZX=s0",
+        "Description": "Koobi Fora is a paleoanthropological site in northern Kenya near Lake Turkana. The geological formation of Koobi Fora is made up of the .",
+        "Category": "historic site",
+        "Location": "Turkana"
+
+        
+      },
+      {
+        "id": 20,
+        "name": "Nairobi Railway Museum",
+        "image": "https://lh3.googleusercontent.com/-j8R2BvBL1OVYOQbtV3qtkXT3QeSVoKERpX7VfG-6rCDtNM2jtfiwuBPHDlQqyIWUHszDPV_8VDCcq3EdXXrAEBgZtty2IpMyvbdWOv_MVjUcVidLWxOGDifKb8XWDDJTbHtLLke=s0",
+        "Description": "The Nairobi railway museum, aims to preserve the history of railway development in East Africa by preserving and presenting relics and early records of the time",
+        "Category": "historic site",
+        "Location": "Nairobi"
+        
+        
+      },
+      {
+        "id": 18,
+        "name": "Shimoni Slave Caves",
+        "image": "https://lh5.googleusercontent.com/6NImrFAGIoG7mveawbk_9hq-dMiXMgoOTYKwY-TBwl9j3EWah4GhS7pjAxKDFMI1HqxZ2_Zd2N1UkDnGmsih5MseS0mhW5nqbJf9lLwIfHckom_7IR7_UEfULUIxYSYlKOyg9dYI=s0",
+        "Description": "Shimoni’s slave are remnants of the brutal reality of the East African slave trade. ",
+        "Category": "historic site",
+        "Location": "Kwale"
+      
+        
+      },
+      {
+        "id": 21,
+        "name": "Meru Museum",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/62/08/4e/meru-museum.jpg?w=1200&h=1200&s=1",
+        "Description": "The small museum’s exhibits include the cultural and technological remains. ",
+        "Location": "Meru"
+        
+        
+      },
+      {
+        "id": 22,
+        "name": "Two Rivers Mall",
+        "image": "https://fastly.4sqi.net/img/general/width960/1371946835_h_hQw_wULEWt8iJgepj-7MKPeUQn6YuYj2xVy9onScE.jpg",
+        "Description": "is the biggest mall in Kenya featuring a plethora of food and beverage outlets, fashion stores, health and beauty shops, banking services, children play areas and massive grade A office space.",
+        "Category": "mall",
+        "Location": "Limuru"
+        
+        
+      },
+     
+      {
+        "id": 23,
+        "name": "The Hub Karen",
+        "image": "https://i.pinimg.com/736x/89/4e/8e/894e8ec5d8b8c2278ad98cbcf0a9ecd9.jpg",
+        "Description": "With over 85 retail stores, the mall ensures that all your fine dining, entertainment, fashion and grocery shopping needs are met under a single roof.",
+        "Category": "mall",
+        "Location":"Nairobi"
+        
+        
+      },
+      {
+        "id": 24,
+        "name": "The Junction Mall",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/92/bb/5d/the-junction-mall.jpg?w=1200&h=-1&s=1",
+        "Description": "Located at the junction of Ngong Road, Naivasha Road and King’ara Road in Nairobi, the junction has been operating for the past 11 years.",
+        "Category": "mall",
+        "Location": "Nairobi"
+        
+        
+      },
+      {
+        "id": 25,
+        "name": " Village Market",
+        "image": "https://i.pinimg.com/originals/b8/de/42/b8de42c46765a4ffde9eaeef1c355f7d.jpg",
+        "Description": "The Village Market is one of the best malls in Kenya. Located on Limuru Road.",
+        "Category": "mall",
+        "Location": "Nairobi"
+        
+        
+      },
+      {
+        "id": 26,
+        "name": "Sarit Centre",
+        "image": "https://i.pinimg.com/736x/bc/cb/6b/bccb6b3feaeaab179bd4a7d826eb2bfc--sarit-nairobi.jpg",
+        "Description": "Opened in 1983, Sarit Centre is easily the oldest shopping mall in Kenya. The mall is located in Nairobi’s Westlands and it offers a 300-seater cinema, food courts and a show space.",
+        "Category": "mall",
+        "Location": "Nairobi"
+        
+        
+      },
+      {
+        "id": 27,
+        "name": "Villa Rosa Kempinsky",
+        "image": "https://i.pinimg.com/originals/ba/0c/2b/ba0c2b7b2323eaedf80bc6bd988a19be.jpg",
+        "Description": "Opened in 2013, this five-star hotel in Kenya, East Africa, offers 201 hotel suites and rooms which are comfortably positioned throughout ten floors ",
+        "Category": "Hotel",
+        "Location": "Nairobi"
+        
+        
+      },
+     
+     
+      {
+        "id": 28,
+        "name": "Yaya Centre",
+        "image": "https://bargainadvice.com/wp-content/uploads/2023/01/yaya-centre-in-nairobi.jpg",
+        "Description": "The facility, which was founded in the late 1980s is today one of the top shopping malls in Nairobi. It hosts more than 100 shops and offices.",
+        "Category": "mall",
+        "Location": "Nairobi"
+        
+        
+      },
+      {
+        "id": 29,
+        "name": "Westgate",
+        "image": "https://i.pinimg.com/originals/e8/fd/d1/e8fdd1c638b9c4dbf587c60ab351b9c7.jpg",
+        "Description": "Also located in Westlands, Westgate is a five-storey mall that houses over 90 stores.",
+        "Category": "mall",
+        "Location": "Nairobi"
+        
+        
+      },
+      {
+        "id": 29,
+        "name": "Nyali",
+        "image": "https://www.wildlifekenyasafari.com/wp-content/uploads/2022/05/Nyali-Beach.jpg",
+        "Description": "Nyali is renowned for its high tourist potential, as its water is very calm, the accommodation facilities and its white sand beaches and sea that is loved by divers.",
+        "Category":"Beach",
+        "Location": "Mombasa"
+        
+        
+      },
+
+      {
+        "id": 30,
+        "name": "Pirates",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/57244312.jpg?k=ce7865feb9b2239b78faa2bef06fa18507ef433d969188208ea85eb5dc5de293&o=&hp=1",
+        "Description": "Officially known as Jomo Kenyatta Public Beach, Pirates Beach is a famous beach for many locals and family units",
+        "Category": "Beach",
+        "Location": "Mombasa"
+        
+        
+      },
+      {
+        "id": 31,
+        "name": "Mombasa Beach Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/34928310.jpg?k=79ef3a91cf430d8af50a4222d7c092072ee7873c7d99d1d29c61380058ebc786&o=&hp=1",
+        "Description": "Mombasa Beach Hotel is under the flagship of Kenya Safari Lodges & Hotels is located in the Kenya's North Coast.  ",
+        "Category": "Hotel",
+        "Location": "Mombasa"
+        
+        
+      },
+
+      {
+        "id": 32,
+        "name": "Hell's Gate National Park",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Hell%27s_Gate%2C_Kenya.jpg",
+        "Description": "Hell's Gate National Park lies south of Lake Naivasha in Kenya, north west of Nairobi. ",
+        "Category": "parks",
+        "Location": "Naivasha"
+       
+       
+      },
+      {
+        "id": 34,
+        "name": "Hilton Hotel",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Hilton_Nairobi.jpg/1200px-Hilton_Nairobi.jpg",
+        "Description": "Experience Kenya from the Hilton Nairobi hotel, situated in the city's central business district, ",
+        "Category": "Hotel",
+        "Location": "Nairobi"
+        
+        
+      },
+     
+      {
+        "id": 35,
+        "name": "Malindi beach",
+        "image": "https://1001beach.com/img/posts/1325/1200/malindi-1.webp",
+        "Description": "All beaches of Malindi have white and clean sand. Water here is as clean as possible. Coral reefs that grew close to the shore act as natural filters. ",
+        "Category": "Beach",
+        "Location": "Malindi"
+        
+        
+      },
+      {
+        "id": 36,
+        "name": "Ukunda",
+        "image": "https://pinewood-beach.com/blogs/wp-content/uploads/2021/07/Explore-one-of-the-best-restaurants-in-Ukunda-Kenya-1024x603.png",
+        "Description": "Ukunda is a coastal town in the southern part of Mombasa. It paves way into Diani Beach. ",
+        "Category": "Beach",
+        "Location": "Malindi"
+        
+        
+      },
+     
+      {
+        "id": 37,
+        "name": "Serena Hotel",
+        "image": "https://i.pinimg.com/originals/25/1e/c2/251ec21ef333c69b9b476fdcf5b14e65.jpg",
+        "Description": "Book your stay at one of Nairobi's best hotels. Our Nairobi hotel is centrally located with lush gardens, 5-star services and elegant accommodation. ",
+        "Category": "Hotel",
+        "Location": "Nairobi"
+        
+        
+      }
+      
+      
+     
+    ]
+  }
