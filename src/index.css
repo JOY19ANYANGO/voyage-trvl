@@ -1,21 +1,12 @@
-/* MeansOfTransport.module.css */
-.transportContainer {
-  border: 1px solid #ccc;
-  padding: 10px;
+/* Transport.css */
+.transport-container {
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhxN42HbIvmoudpMhPpumQ1Ipurr4-dWG-Lg&usqp=CAU') center/cover;
+  padding: 20px;
+  border-radius: 10px;
+  text-shadow: bisque;
 }
-
-.transportTitle {
-  color: blue;
-  font-size: 24px;
-}
-
-.transportButton {
-  background-color: green;
-  color: white;
-}
-.transportButton{
-  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.langschwander.com%2Fnews%2F2016%2F12%2F14%2Fwhy-its-essential-you-travel-how-travel-tourism-boost-global-economics&psig=AOvVaw12Utp-9KK1gRMyvxbA8cxF&ust=1691080389282000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJidjsGzvoADFQAAAAAdAAAAABAJ");
-}
-.transportContainer{
-  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.langschwander.com%2Fnews%2F2016%2F12%2F14%2Fwhy-its-essential-you-travel-how-travel-tourism-boost-global-economics&psig=AOvVaw12Utp-9KK1gRMyvxbA8cxF&ust=1691080389282000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJidjsGzvoADFQAAAAAdAAAAABAJ");
+.payment-system-container {
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhxN42HbIvmoudpMhPpumQ1Ipurr4-dWG-Lg&usqp=CAU') center/cover;
+  padding: 20px;
+  border-radius: 10px;
 }

@@ -1,6 +1,4 @@
 import React from 'react';
-import './Transport.css'; // Ensure the correct path to Transport.css
-
 const Transport = ({ transportOptions, handleSelectTransport }) => {
   return (
     <div className="transport-container">
