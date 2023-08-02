@@ -1,12 +1,11 @@
 /* Transport.css */
 .transport-container {
-  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhxN42HbIvmoudpMhPpumQ1Ipurr4-dWG-Lg&usqp=CAU') center/cover;
+  background-color: goldenrod;
   padding: 20px;
   border-radius: 10px;
-  text-shadow: bisque;
 }
 .payment-system-container {
-  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhxN42HbIvmoudpMhPpumQ1Ipurr4-dWG-Lg&usqp=CAU') center/cover;
+  background-color: cornflowerblue;
   padding: 20px;
   border-radius: 10px;
 }
