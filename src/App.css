@@ -14,14 +14,15 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #344b77;
+  background-image: url("https://www.self.com/story/coronavirus-travel-safety");
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(155, 11, 11);
 }
 
 .App-link {
