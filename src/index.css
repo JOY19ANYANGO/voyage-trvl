@@ -7,7 +7,164 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+ .row{
+ gap: 200px;
+ margin-top: 155px;
 }
+.card {
+  /* Set the height of the card to your desired value */
+  height: 700px; /* For example, set the card height to 300 pixels */
+  /* Add any other styles you want for the card */
+  background-color: whitesmoke;
+}
+
+.card img {
+  /* Set the image height to 40% of the card's height */
+  height: 50%;
+  /* Set the width to "auto" to maintain the aspect ratio */
+  width: auto;
+  /* Optional: Add some padding to separate the image from other card content */
+  padding: 10px;
+}
+
+/* FilterButtons.css */
+.filter-buttons{
+  display: flex;
+  
+  gap: 15px;
+  margin-right: 5px;
+}
+
+.filter-buttons button {
+  background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+  border: 0;
+  border-radius: 8px;
+  box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  
+  font-family: Phantomsans, sans-serif;
+  font-size: 20px;
+  
+ 
+  max-width: 100%;
+  min-width: 140px;
+  padding: 10px 10px;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.button-63:active,
+.button-63:hover {
+  outline: 0;
+}
+
+@media (min-width: 768px) {
+  .button-63 {
+    font-size: 24px;
+    min-width: 196px;
+  }
+}
+
+.filter-buttons button:hover{
+  opacity: 0.88;
+  background-color: darkgreen
+  
+}
+form{
+  position: relative;
+  top: 150px;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  transition: all 1s;
+  width: 50px;
+  height: 50px;
+  background:lemonchiffon;
+  box-sizing: border-box;
+  border-radius: 25px;
+  border: 4px solid lemonchiffon;
+  padding: 5px;
+}
+input{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;;
+  height: 42.5px;
+  line-height: 30px;
+  outline: 0;
+  border: 0;
+  display: none;
+  font-size: 1em;
+  border-radius: 20px;
+  padding: 0 20px;
+}
+.fa{
+  box-sizing: border-box;
+  padding: 10px;
+  width: 42.5px;
+  height: 42.5px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  border-radius: 50%;
+  color: #07051a;
+  text-align: center;
+  font-size: 1.2em;
+  transition: all 1s;
+}
+form:hover{
+  width: 200px;
+  cursor: pointer;
+}
+form:hover input{
+  display: block;
+}
+form:hover .fa{
+  background: #07051a;
+  color: lemonchiffon;
+}
+.Areas{
+  background-image: url("https://wallpaperaccess.com/full/29201.jpg")
+}
+.on {
+  color:gold;
+}
+.off {
+  color: #ccc;
+}
+span:hover{
+  cursor: pointer;
+}
+span{
+  font-size: x-large;
+}
+/* CSS */
+.wishlist {
+  position: fixed;
+  top: 0;
+  
+  width: 600px;
+  height: 100vh;
+ background-color: #FFFFFF;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  transition: right 0.3s ease-in-out; /* Add transition for smooth sliding */
+  z-index: 999;
+  overflow-y: auto; /* Enable vertical scrolling */
+  padding: 20px; /* Optional padding for better appearance */
+}
+
+
+.wishlist.active {
+  right: 0; /* Show the wishlist when active */
+}
+.wishlist .card{
+  width: 400px;
+}
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css");
+
