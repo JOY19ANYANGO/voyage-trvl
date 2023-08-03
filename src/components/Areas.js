@@ -63,12 +63,12 @@ const Areas = ({ areas }) => {
       <div className="row">
         {filteredAreas.length === 0 ? (
           <div className="col-12">
-            <h2>No Matches Found</h2>
+            <h2 style={{color:"white"}}>No Matches Found</h2>
           </div>
         ) : (
           filteredAreas.map((area) => (
             <div key={area.id} className="card col-3 m-1">
-              <img className='card-img-top' src={area.image} alt="" />
+              <img className='card-img-top' src={area.image} alt="Your area" />
               <div className="card-body">
                 <h5 className="card-title">{area.name}</h5>
                 <p className="card-text">{area.Description}</p>

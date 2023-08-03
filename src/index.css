@@ -129,7 +129,8 @@ form:hover .fa{
   color: lemonchiffon;
 }
 .Areas{
-  background-image: url("https://wallpaperaccess.com/full/29201.jpg")
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 }
 .on {
   color:gold;
@@ -165,6 +166,48 @@ span{
 .wishlist .card{
   width: 400px;
 }
+@media only screen and (max-width: 640px) {
+  .row {
+    width: 84%;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .row {
+    width: 100%; /* Set the card container to take up the full width */
+    display: flex;
+    flex-direction: column; /* Set the flex-direction to column to stack the cards vertically */
+    align-items: center; /* Center the cards horizontally within the container (optional) */
+  }
+  .filter-buttons {
+   
+    gap: 6px; /* Reduce the gap between buttons */
+    margin-right: 0; /* Remove the right margin to utilize full width */
+    align-items: center; /* Center the buttons horizontally */
+  }
+
+  .filter-buttons button {
+    font-size: 16px; /* Reduce the font size for mobile screens */
+    min-width: 120px; /* Reduce the minimum width for smaller buttons */
+  }
+  .wishlist{
+    top:180px ;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .card {
+    margin-bottom: 1rem;
+    width: 400px;
+    /* You can also set other properties to make it visually fit as needed */
+    /* For example, you can set font-size, padding, etc. */
+    font-size: 15px; /* This is just an example, adjust it to fit your design */
+    padding: 15px; /* This is just an example, adjust it to fit your design */
+  }
+
+}
+  
+
 
 @import url("https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css");
 
