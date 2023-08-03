@@ -55,7 +55,7 @@ function Body() {
         </div>
         <div style={{ display: "flex", justifyContent: "space-evenly" }}>
           <div style={{ position: "relative" }}>
-            <div className="card">
+            <div className="cardi">
               <h2>01</h2>
               <div className="card2">
                 <h4>Tour Packages</h4>

@@ -7,6 +7,7 @@ import AboutUs from "./AboutUs";
 import Reviews from "./Reviews";
 import Places from "./Places";
 
+
 function App() {
   return (
     <>
