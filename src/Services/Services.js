@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import Transport from './src/Services/MeansOfTransport';
-import PaymentSystem from './src/Services/PaymentSystem';
+import Transport from './MeansOfTransport';
+import PaymentSystem from './PaymentSystem';
 
 const App = () => {
   const sampleTransportOptions = [
