@@ -119,18 +119,18 @@ function Body() {
         >
           <div className="wildlife">
             {" "}
-            <Link to="/Services">
+            <Link to="/Places">
             <h4>WILDLIFE</h4>
             </Link>
             
           </div>
           <div className="historic">
-          <Link to="/Services">
+          <Link to="/Places">
             <h4>HISTORIC SITE</h4>
             </Link>
           </div>
           <div className="coast">
-          <Link to="/Services">
+          <Link to="/Places">
             <h4>COAST</h4>
             </Link>
           </div>
