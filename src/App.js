@@ -1,11 +1,17 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Informationals from "./Informationals";
+import InformationalsContact from "./InformationalsContact";
+import InformationalsAboutUs from "./InformationalsAboutUs";
+import InformationalsPrivacypolicy from "./InformationalsPrivacyPolicy";
+import InformationalsTermsAndConditions from "./InformationalsTerms and conditions";
 
 function App() {
   return (
    <>
-   <Informationals/>
+   <InformationalsContact/>
+   <InformationalsAboutUs/>
+   <InformationalsPrivacypolicy/>
+   <InformationalsTermsAndConditions/>
    </>
   );
 }
