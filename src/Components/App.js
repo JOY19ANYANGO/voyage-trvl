@@ -2,12 +2,11 @@ import React from "react";
 import NavBar from "./NavBar";
 import { BrowserRouter as Router , Switch , Route } from "react-router-dom";
 import Home from "./Home";
-
-import Reviews from "./Reviews";
+import Services from "./Services"
 import Places from "./Places";
 
-import AboutUs from "../About Us";
-import Contact from "../Contact";
+import AboutUs from "./About Us";
+import Contact from "./Contact";
 
 
 function App() {
@@ -18,7 +17,7 @@ function App() {
       <Switch>
         <Route path="/" exact component={Home} />
         <Route path="/AboutUs"  component={AboutUs} />
-        <Route path="/Reviews"  component={Reviews} />
+        <Route path="/Services"  component={Services} />
         <Route path="/Places"  component={Places} />
         <Route path="/Contacts"  component={Contact} />
       </Switch>

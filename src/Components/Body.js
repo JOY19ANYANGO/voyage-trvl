@@ -1,9 +1,10 @@
 import React from "react";
 import "./Style/Body.css";
+import { Link } from "react-router-dom/cjs/react-router-dom.min";
 
 function Body() {
   return (
-    <>
+    <div className="homebody">
       <div className="body">
         <div className="h1">
           <h1>Where to?</h1>
@@ -68,7 +69,7 @@ function Body() {
             </div>
           </div>
           <div style={{ position: "relative" }}>
-            <div className="card">
+            <div className="cardi">
               <h2>02</h2>
               <div className="card2">
                 <h4>Flight Booking</h4>
@@ -81,7 +82,7 @@ function Body() {
             </div>
           </div>
           <div style={{ position: "relative" }}>
-            <div className="card">
+            <div className="cardi">
               <h2>03</h2>
               <div className="card2">
                 <h4>Hotel Booking</h4>
@@ -94,7 +95,7 @@ function Body() {
             </div>
           </div>
           <div style={{ position: "relative" }}>
-            <div className="card">
+            <div className="cardi">
               <h2>04</h2>
               <div className="card2">
                 <h4>Destination Booking</h4>
@@ -118,17 +119,24 @@ function Body() {
         >
           <div className="wildlife">
             {" "}
+            <Link to="/Services">
             <h4>WILDLIFE</h4>
+            </Link>
+            
           </div>
           <div className="historic">
+          <Link to="/Services">
             <h4>HISTORIC SITE</h4>
+            </Link>
           </div>
           <div className="coast">
+          <Link to="/Services">
             <h4>COAST</h4>
+            </Link>
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 }
 

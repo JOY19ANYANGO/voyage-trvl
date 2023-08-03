@@ -6,10 +6,10 @@ import Footer from "./Footer";
 
 function Home(){
     return(
-        <>
+        <div className="homepage">
         <Body/>
         <Footer/>
-        </>
+        </div>
     )
 }
 
