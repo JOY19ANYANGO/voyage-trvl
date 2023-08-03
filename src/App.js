@@ -1,4 +1,4 @@
-import React from "react";
+
 import React from "react";
 import NavBar from "./NavBar";
 import { BrowserRouter as Router , Switch , Route } from "react-router-dom";
@@ -8,6 +8,7 @@ import AboutUs from "./AboutUs";
 import Reviews from "./Reviews";
 import Places from "./Places";
 
+
 function App() {
   return (
     <>
@@ -16,8 +17,7 @@ function App() {
       <Switch>
         <Route path="/" exact component={Home} />
         <Route path="/AboutUs"  component={AboutUs} />
-        <Route path="
-/Reviews"  component={Reviews} />
+        <Route path="/Reviews"  component={Reviews} />
         <Route path="/Places"  component={Places} />
         <Route path="/Contacts"  component={Contacts} />
       </Switch>
@@ -25,7 +25,4 @@ function App() {
     </>
   );
 }
-
 export default App;
-
-
