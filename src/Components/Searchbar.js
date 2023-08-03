@@ -12,6 +12,7 @@ function Searchbar({ onSearch }) {
   }
 
   return (
+    <div className="places">
     <form>
     <input
       type="text"
@@ -21,6 +22,7 @@ function Searchbar({ onSearch }) {
     />
     <i className="fa fa-search"></i>
     </form>
+    </div>
   );
 }
 

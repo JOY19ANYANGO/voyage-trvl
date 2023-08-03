@@ -2,15 +2,17 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 
 import './Informationals.css';
-import Master from './Master';
 
+import App from './Components/App';
 
 import reportWebVitals from './reportWebVitals';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Master />
+    <App />
+   
   </React.StrictMode>
 );
 
