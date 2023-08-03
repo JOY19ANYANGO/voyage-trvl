@@ -2,7 +2,7 @@ import React from 'react';
 const Transport = ({ transportOptions, handleSelectTransport }) => {
   return (
     <div className="transport-container">
-      <h2>Means of Transport</h2>
+      <h2>MEANS OF TRANSPORT</h2>
       <ul>
         {transportOptions.map((option) => (
           <li key={option.id}>

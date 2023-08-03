@@ -1,11 +1,12 @@
 /* Transport.css */
 .transport-container {
-  background-color: goldenrod;
+  background-color: #31B7C2;
   padding: 20px;
   border-radius: 10px;
+
 }
 .payment-system-container {
-  background-color: cornflowerblue;
+ background-color: #34e89e;
   padding: 20px;
   border-radius: 10px;
 }
