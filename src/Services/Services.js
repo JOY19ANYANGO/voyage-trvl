@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Transport from './MeansOfTransport';
 import PaymentSystem from './PaymentSystem';
 
-const App = () => {
+const Services = () => {
   const sampleTransportOptions = [
     { id: 1, title: 'Car', description: 'Travel by car.' },
     { id: 2, title: 'Train', description: 'Travel by train.' },
@@ -54,4 +54,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default Services;

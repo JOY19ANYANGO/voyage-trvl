@@ -1,16 +1,13 @@
 // App.js
 import React from 'react';
-const App = () => {
-  const data = {
-    Services
-  };
-
+import Services from './Services';
+const App = () =>{
   return (
     <div>
       <Services/>
     </div>
   );
-};
+  }
 
-export default App;
+export default Services;
 
