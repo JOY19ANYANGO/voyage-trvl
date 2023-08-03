@@ -35,3 +35,15 @@
 
   }
  
+
+  .Navbar{
+    position: relative;
+  }
+
+  .btnimg{
+    position: absolute;
+    width:100px;
+    height:10px;
+    margin-top: -50px;
+    margin-left:85% 
+  }
