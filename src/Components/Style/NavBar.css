@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+    
+  .image { 
+    margin-top: 25px;
+  margin-left: 44px;
+    width: 370.54px;
+    height: 58.981px;
+   
+  }
+  
+.List{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+  .list {
+    
+    position: absolute;
+    width: 600px;
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+   
+  }
+
+  a{
+    color: white;
+    font-size: 17px;
+    text-decoration-line: none;
+
+  }
+ 

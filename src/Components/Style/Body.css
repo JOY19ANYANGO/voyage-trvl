@@ -1,0 +1,110 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.body {
+    
+    margin-top: -123px;
+width: 100%;
+height: 100vh;
+    background: url('../Images/background.png'), rgb(2, 1, 1) 50% / cover no-repeat; 
+    background-size: cover;
+}
+
+
+.h1{
+    position: absolute;
+    margin: 190px ;
+    width: fit-content;
+    font-family: 'Lalezar', cursive;   
+    margin-left: 500px;
+}
+
+
+
+h1{
+color: black;
+font-family: Lalezar;
+font-size: 88px;
+font-style: normal;
+font-weight: 400;
+}  
+
+
+.cardi{
+    border: 1px solid #B45E01;
+    background-color: black;
+    border-radius: 0px;
+    width: 264px;
+    height: 264px;
+}
+
+h2{
+    font-weight: bold;
+                font-size: 100px;
+                color: #ED820E;
+                position: absolute;
+                margin-left: 80px;
+}
+
+.card2{
+    position: absolute;
+    width: 261px;
+    height: 177px;
+    background-color: black;
+    margin: 80px auto;
+}
+
+.cardi p{
+    margin-left: 16px;
+    width: 230px;
+    color:white ;
+     font-size:15px ;
+     text-align: center;
+     font-family: 'Lato' , sans-serif;
+}
+
+h4{
+    text-align: center;
+    color: #ED820E;
+}
+
+.wildlife{
+    width: 364px;
+    height: 374px;
+    background-image: url(../Images/wildlife.png);
+}
+
+
+.historic{
+    width: 364px;
+    height: 374px;
+    background-image: url(../Images/historic.png);
+}
+
+
+.coast{
+    width: 364px;
+    height: 374px;
+    background-image: url(../Images/coast.png);
+}
+
+h3{
+    color: #ED820E;
+    text-align:center ;
+     padding-top: 400px ;
+     font-size: 60px ;
+}
+
+.places h4{
+    padding-top: 150px ;
+    text-align:center;
+    color: #FFF;
+font-family: Lalezar;
+font-size: 59px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration-line: underline;
+}
