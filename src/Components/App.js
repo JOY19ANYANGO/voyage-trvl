@@ -7,6 +7,7 @@ import Places from "./Places";
 
 import AboutUs from "./About Us";
 import Contact from "./Contact";
+import Reviews from "./Review";
 
 
 function App() {
@@ -19,7 +20,8 @@ function App() {
         <Route path="/AboutUs"  component={AboutUs} />
         <Route path="/Services"  component={Services} />
         <Route path="/Places"  component={Places} />
-        <Route path="/Contacts"  component={Contact} />
+        <Route path="/Contact"  component={Contact} />
+        <Route path="/Reviews"  component={Reviews} />
       </Switch>
     </Router>
     </>

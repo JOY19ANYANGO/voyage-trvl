@@ -43,6 +43,9 @@ function NavBar() {
           <li>
             <Link to="/Contacts">Contacts</Link>
           </li>
+          <li>
+            <Link to="/Reviews">Reviews</Link>
+          </li>
         </ul>
       </div>
       <svg
